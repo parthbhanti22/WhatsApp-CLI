@@ -18,7 +18,7 @@ jobs:
     - name: Set up Go
       uses: actions/setup-go@v5
       with:
-        go-version: '1.21' # Matches your project version
+        go-version: '1.21' # Match project version
         cache: true
 
     - name: Verify Dependencies
