@@ -1,4 +1,4 @@
-##Project might no longer work and might cause your account to be banned (Do Not Try)
+## Project might no longer work and might cause your account to be banned (Do Not Try)
 
 # WhatsApp CLI
 
