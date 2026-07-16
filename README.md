@@ -1,3 +1,5 @@
+##Project might no longer work and might cause your account to be banned (Do Not Try)
+
 # WhatsApp CLI
 
 > "By Parth Bhanti, to save your precious RAM"
